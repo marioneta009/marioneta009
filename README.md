@@ -11,7 +11,7 @@
 
 - 💬 Pregúntame acerca **de HTML, JS, Javascript, Java, VB, Redes, MySQL, MS SQL Server, Json, Illustrator, Photoshop, Python, PHP, etc**
 
-- ⚡ Fun fact **Me gusta (Soy extremadamente fanático de) Batman** <img src="batman-logo.png" height="50">
+- ⚡ Fun fact **Me gusta (Soy extremadamente fanático de) Batman** <img src="logo-batman-nolan-1.png" height="30">
 
 <br><br>
 
