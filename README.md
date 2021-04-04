@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy José Martín Gutierrez Arriaga</h1>
 <h3 align="center">Soy un apasionado de las tecnologías, de México para el mundo</h3>
 
-![Aquí la descripción de la imagen por si no carga](developer.png)
+<center>![Aquí la descripción de la imagen por si no carga](developer.png)</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioneta009&label=Profile%20views&color=0e75b6&style=flat" alt="marioneta009" /> </p>
 
