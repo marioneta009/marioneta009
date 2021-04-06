@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioneta009&label=Profile%20views&color=0e75b6&style=flat" alt="marioneta009" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **AWS, Azure, Vue y React**
+- 🌱  Actualmente estoy aprendiendo **AWS, Azure, Vue, React y mejorando mis habilidades con Laravel**
 
-- 💬 Pregúntame acerca **de HTML, JS, Javascript, Java, VB, Redes, MySQL, MS SQL Server, Json, Illustrator, Photoshop, Python, PHP, etc**
+- 💬  Pregúntame acerca **de HTML, JS, Javascript, Java, VB, Redes, MySQL, MS SQL Server, Json, Illustrator, Photoshop, Python, PHP, etc**
 
-- ⚡ Fun fact **Me gusta (Soy extremadamente fanático de) Batman** <img src="logo-batman-nolan-1.png" height="30">
+- ⚡  Fun fact **Me gusta (Soy extremadamente fanático de) Batman** <img src="logo-batman-nolan-1.png" height="30">
 
 <br><br>
 
